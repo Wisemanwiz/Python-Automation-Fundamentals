@@ -28,5 +28,5 @@ A program that collects user input (name, food, city) and prints a short story.
 
 ## How to Run
 
-```bash
-python chapter1.py
+open with any IDE (Visual Studio code) recommended.
+Chapter1.py
